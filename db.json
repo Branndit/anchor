@@ -462,7 +462,502 @@
                 "totalInputDelivered": "4.2",
                 "averageAnnualInput": "12.2"
             }
-        }
+        },
+        {
+            "id": "Abia",
+            "overview": {},
+            "farmer": {
+                "enumerated": "4807",
+                "approved": "4000",
+                "totalHectares": "200",
+                "totalCropsSupported": 10,
+                "loansReceived": 3.8,
+                "loansPaid": 3.2,
+                "inputProcessed": "2500",
+                "totalProcessed": "44000"
+            },
+            "anchor": {
+                "totalNumber": 5000,
+                "totalCropTraded": "12455",
+                "averageTurnout": 2.4,
+                "totalTurnout": 5.2
+            },
+            "Iprovider": {
+                "enumerated": "7,192",
+                "totalInputSupported": "231",
+                "totalInputDelivered": "4.2",
+                "averageAnnualInput": "12.2"
+            }
+        },
+        {
+            "id": "Abia",
+            "overview": {},
+            "farmer": {
+                "enumerated": "4807",
+                "approved": "4000",
+                "totalHectares": "200",
+                "totalCropsSupported": 10,
+                "loansReceived": 3.8,
+                "loansPaid": 3.2,
+                "inputProcessed": "2500",
+                "totalProcessed": "44000"
+            },
+            "anchor": {
+                "totalNumber": 5000,
+                "totalCropTraded": "12455",
+                "averageTurnout": 2.4,
+                "totalTurnout": 5.2
+            },
+            "Iprovider": {
+                "enumerated": "7,192",
+                "totalInputSupported": "231",
+                "totalInputDelivered": "4.2",
+                "averageAnnualInput": "12.2"
+            }
+        },
+        {
+            "id": "Akwa Ibom",
+            "overview": {},
+            "farmer": {
+                "enumerated": "9227",
+                "approved": "4000",
+                "totalHectares": "200",
+                "totalCropsSupported": 10,
+                "loansReceived": 3.8,
+                "loansPaid": 3.2,
+                "inputProcessed": "2500",
+                "totalProcessed": "44000"
+            },
+            "anchor": {
+                "totalNumber": 5000,
+                "totalCropTraded": "12455",
+                "averageTurnout": 2.4,
+                "totalTurnout": 5.2
+            },
+            "Iprovider": {
+                "enumerated": "7,192",
+                "totalInputSupported": "231",
+                "totalInputDelivered": "4.2",
+                "averageAnnualInput": "12.2"
+            }
+        },
+        {
+            "id": "Cross River",
+            "overview": {},
+            "farmer": {
+                "enumerated": "20509",
+                "approved": "4000",
+                "totalHectares": "200",
+                "totalCropsSupported": 10,
+                "loansReceived": 3.8,
+                "loansPaid": 3.2,
+                "inputProcessed": "2500",
+                "totalProcessed": "44000"
+            },
+            "anchor": {
+                "totalNumber": 5000,
+                "totalCropTraded": "12455",
+                "averageTurnout": 2.4,
+                "totalTurnout": 5.2
+            },
+            "Iprovider": {
+                "enumerated": "7,192",
+                "totalInputSupported": "231",
+                "totalInputDelivered": "4.2",
+                "averageAnnualInput": "12.2"
+            }
+        },
+        {
+            "id": "Imo",
+            "overview": {},
+            "farmer": {
+                "enumerated": "3016",
+                "approved": "4000",
+                "totalHectares": "200",
+                "totalCropsSupported": 10,
+                "loansReceived": 3.8,
+                "loansPaid": 3.2,
+                "inputProcessed": "2500",
+                "totalProcessed": "44000"
+            },
+            "anchor": {
+                "totalNumber": 5000,
+                "totalCropTraded": "12455",
+                "averageTurnout": 2.4,
+                "totalTurnout": 5.2
+            },
+            "Iprovider": {
+                "enumerated": "7,192",
+                "totalInputSupported": "231",
+                "totalInputDelivered": "4.2",
+                "averageAnnualInput": "12.2"
+            }
+        },
+        {
+            "id": "Rivers",
+            "overview": {},
+            "farmer": {
+                "enumerated": "492",
+                "approved": "4000",
+                "totalHectares": "200",
+                "totalCropsSupported": 10,
+                "loansReceived": 3.8,
+                "loansPaid": 3.2,
+                "inputProcessed": "2500",
+                "totalProcessed": "44000"
+            },
+            "anchor": {
+                "totalNumber": 5000,
+                "totalCropTraded": "12455",
+                "averageTurnout": 2.4,
+                "totalTurnout": 5.2
+            },
+            "Iprovider": {
+                "enumerated": "7,192",
+                "totalInputSupported": "231",
+                "totalInputDelivered": "4.2",
+                "averageAnnualInput": "12.2"
+            }
+        },
+        {
+            "id": "Bayelsa",
+            "overview": {},
+            "farmer": {
+                "enumerated": "887",
+                "approved": "4000",
+                "totalHectares": "200",
+                "totalCropsSupported": 10,
+                "loansReceived": 3.8,
+                "loansPaid": 3.2,
+                "inputProcessed": "2500",
+                "totalProcessed": "44000"
+            },
+            "anchor": {
+                "totalNumber": 5000,
+                "totalCropTraded": "12455",
+                "averageTurnout": 2.4,
+                "totalTurnout": 5.2
+            },
+            "Iprovider": {
+                "enumerated": "7,192",
+                "totalInputSupported": "231",
+                "totalInputDelivered": "4.2",
+                "averageAnnualInput": "12.2"
+            }
+        },
+        {
+            "id": "Anambra",
+            "overview": {},
+            "farmer": {
+                "enumerated": "3304",
+                "approved": "4000",
+                "totalHectares": "200",
+                "totalCropsSupported": 10,
+                "loansReceived": 3.8,
+                "loansPaid": 3.2,
+                "inputProcessed": "2500",
+                "totalProcessed": "44000"
+            },
+            "anchor": {
+                "totalNumber": 5000,
+                "totalCropTraded": "12455",
+                "averageTurnout": 2.4,
+                "totalTurnout": 5.2
+            },
+            "Iprovider": {
+                "enumerated": "7,192",
+                "totalInputSupported": "231",
+                "totalInputDelivered": "4.2",
+                "averageAnnualInput": "12.2"
+            }
+        },
+        {
+            "id": "Ebonyi",
+            "overview": {},
+            "farmer": {
+                "enumerated": "16028",
+                "approved": "4000",
+                "totalHectares": "200",
+                "totalCropsSupported": 10,
+                "loansReceived": 3.8,
+                "loansPaid": 3.2,
+                "inputProcessed": "2500",
+                "totalProcessed": "44000"
+            },
+            "anchor": {
+                "totalNumber": 5000,
+                "totalCropTraded": "12455",
+                "averageTurnout": 2.4,
+                "totalTurnout": 5.2
+            },
+            "Iprovider": {
+                "enumerated": "7,192",
+                "totalInputSupported": "231",
+                "totalInputDelivered": "4.2",
+                "averageAnnualInput": "12.2"
+            }
+        },
+        {
+            "id": "Enugu",
+            "overview": {},
+            "farmer": {
+                "enumerated": "10797",
+                "approved": "4000",
+                "totalHectares": "200",
+                "totalCropsSupported": 10,
+                "loansReceived": 3.8,
+                "loansPaid": 3.2,
+                "inputProcessed": "2500",
+                "totalProcessed": "44000"
+            },
+            "anchor": {
+                "totalNumber": 5000,
+                "totalCropTraded": "12455",
+                "averageTurnout": 2.4,
+                "totalTurnout": 5.2
+            },
+            "Iprovider": {
+                "enumerated": "7,192",
+                "totalInputSupported": "231",
+                "totalInputDelivered": "4.2",
+                "averageAnnualInput": "12.2"
+            }
+        },
+        {
+            "id": "Benue",
+            "overview": {},
+            "farmer": {
+                "enumerated": "21284",
+                "approved": "4000",
+                "totalHectares": "200",
+                "totalCropsSupported": 10,
+                "loansReceived": 3.8,
+                "loansPaid": 3.2,
+                "inputProcessed": "2500",
+                "totalProcessed": "44000"
+            },
+            "anchor": {
+                "totalNumber": 5000,
+                "totalCropTraded": "12455",
+                "averageTurnout": 2.4,
+                "totalTurnout": 5.2
+            },
+            "Iprovider": {
+                "enumerated": "7,192",
+                "totalInputSupported": "231",
+                "totalInputDelivered": "4.2",
+                "averageAnnualInput": "12.2"
+            }
+        },
+        {
+            "id": "Taraba",
+            "overview": {},
+            "farmer": {
+                "enumerated": "16047",
+                "approved": "4000",
+                "totalHectares": "200",
+                "totalCropsSupported": 10,
+                "loansReceived": 3.8,
+                "loansPaid": 3.2,
+                "inputProcessed": "2500",
+                "totalProcessed": "44000"
+            },
+            "anchor": {
+                "totalNumber": 5000,
+                "totalCropTraded": "12455",
+                "averageTurnout": 2.4,
+                "totalTurnout": 5.2
+            },
+            "Iprovider": {
+                "enumerated": "7,192",
+                "totalInputSupported": "231",
+                "totalInputDelivered": "4.2",
+                "averageAnnualInput": "12.2"
+            }
+        },
+        {
+            "id": "Adamawa",
+            "overview": {},
+            "farmer": {
+                "enumerated": "33280",
+                "approved": "4000",
+                "totalHectares": "200",
+                "totalCropsSupported": 10,
+                "loansReceived": 3.8,
+                "loansPaid": 3.2,
+                "inputProcessed": "2500",
+                "totalProcessed": "44000"
+            },
+            "anchor": {
+                "totalNumber": 5000,
+                "totalCropTraded": "12455",
+                "averageTurnout": 2.4,
+                "totalTurnout": 5.2
+            },
+            "Iprovider": {
+                "enumerated": "7,192",
+                "totalInputSupported": "231",
+                "totalInputDelivered": "4.2",
+                "averageAnnualInput": "12.2"
+            }
+        },
+        {
+            "id": "Gombe",
+            "overview": {},
+            "farmer": {
+                "enumerated": "46228",
+                "approved": "4000",
+                "totalHectares": "200",
+                "totalCropsSupported": 10,
+                "loansReceived": 3.8,
+                "loansPaid": 3.2,
+                "inputProcessed": "2500",
+                "totalProcessed": "44000"
+            },
+            "anchor": {
+                "totalNumber": 5000,
+                "totalCropTraded": "12455",
+                "averageTurnout": 2.4,
+                "totalTurnout": 5.2
+            },
+            "Iprovider": {
+                "enumerated": "7,192",
+                "totalInputSupported": "231",
+                "totalInputDelivered": "4.2",
+                "averageAnnualInput": "12.2"
+            }
+        },
+        {
+            "id": "Borno",
+            "overview": {},
+            "farmer": {
+                "enumerated": "6520",
+                "approved": "4000",
+                "totalHectares": "200",
+                "totalCropsSupported": 10,
+                "loansReceived": 3.8,
+                "loansPaid": 3.2,
+                "inputProcessed": "2500",
+                "totalProcessed": "44000"
+            },
+            "anchor": {
+                "totalNumber": 5000,
+                "totalCropTraded": "12455",
+                "averageTurnout": 2.4,
+                "totalTurnout": 5.2
+            },
+            "Iprovider": {
+                "enumerated": "7,192",
+                "totalInputSupported": "231",
+                "totalInputDelivered": "4.2",
+                "averageAnnualInput": "12.2"
+            }
+        },
+        {
+            "id": "Yobe",
+            "overview": {},
+            "farmer": {
+                "enumerated": "33106",
+                "approved": "4000",
+                "totalHectares": "200",
+                "totalCropsSupported": 10,
+                "loansReceived": 3.8,
+                "loansPaid": 3.2,
+                "inputProcessed": "2500",
+                "totalProcessed": "44000"
+            },
+            "anchor": {
+                "totalNumber": 5000,
+                "totalCropTraded": "12455",
+                "averageTurnout": 2.4,
+                "totalTurnout": 5.2
+            },
+            "Iprovider": {
+                "enumerated": "7,192",
+                "totalInputSupported": "231",
+                "totalInputDelivered": "4.2",
+                "averageAnnualInput": "12.2"
+            }
+        },
+        {
+            "id": "Jigawa",
+            "overview": {},
+            "farmer": {
+                "enumerated": "20462",
+                "approved": "4000",
+                "totalHectares": "200",
+                "totalCropsSupported": 10,
+                "loansReceived": 3.8,
+                "loansPaid": 3.2,
+                "inputProcessed": "2500",
+                "totalProcessed": "44000"
+            },
+            "anchor": {
+                "totalNumber": 5000,
+                "totalCropTraded": "12455",
+                "averageTurnout": 2.4,
+                "totalTurnout": 5.2
+            },
+            "Iprovider": {
+                "enumerated": "7,192",
+                "totalInputSupported": "231",
+                "totalInputDelivered": "4.2",
+                "averageAnnualInput": "12.2"
+            }
+        },
+        {
+            "id": "Kastina",
+            "overview": {},
+            "farmer": {
+                "enumerated": "102140",
+                "approved": "4000",
+                "totalHectares": "200",
+                "totalCropsSupported": 10,
+                "loansReceived": 3.8,
+                "loansPaid": 3.2,
+                "inputProcessed": "2500",
+                "totalProcessed": "44000"
+            },
+            "anchor": {
+                "totalNumber": 5000,
+                "totalCropTraded": "12455",
+                "averageTurnout": 2.4,
+                "totalTurnout": 5.2
+            },
+            "Iprovider": {
+                "enumerated": "7,192",
+                "totalInputSupported": "231",
+                "totalInputDelivered": "4.2",
+                "averageAnnualInput": "12.2"
+            }
+        },
+        {
+            "id": "Kano",
+            "overview": {},
+            "farmer": {
+                "enumerated": "126140",
+                "approved": "4000",
+                "totalHectares": "200",
+                "totalCropsSupported": 10,
+                "loansReceived": 3.8,
+                "loansPaid": 3.2,
+                "inputProcessed": "2500",
+                "totalProcessed": "44000"
+            },
+            "anchor": {
+                "totalNumber": 5000,
+                "totalCropTraded": "12455",
+                "averageTurnout": 2.4,
+                "totalTurnout": 5.2
+            },
+            "Iprovider": {
+                "enumerated": "7,192",
+                "totalInputSupported": "231",
+                "totalInputDelivered": "4.2",
+                "averageAnnualInput": "12.2"
+            }
+        },
+
     ],
     "crops": [
         {
@@ -492,7 +987,7 @@
             }
         },
         {
-            "label": "Castor Seed"
+            "id": "Castor Seed"
         },
         {
             "label": "Cattles"
